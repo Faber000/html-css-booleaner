@@ -1,7 +1,30 @@
-.titolo{
+#titolo{
     background-image:url("../img/pattern.png");
     width: 100%;
     height: 120px;
     background-size: contain;
     background-color: lightskyblue;
+}
+#boolean{
+    color: blue;
+}
+#data{
+    font-size: 15px;
+    color:grey;
+}
+span{
+    color: grey;
+}
+#container{
+    position: relative;
+    height: 100%;
+    width: 80%;
+    left:10%;
+    background-color: white; 
+}
+html{
+    background-color: lightgray;
+}
+h1{
+    margin-bottom:1px;
 }
