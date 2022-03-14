@@ -5,6 +5,7 @@
     height: 120px;
     background-size: contain;
     background-color: lightskyblue;
+    position: relative;
 }
 #boolean{
     color: blue;
@@ -45,4 +46,23 @@ table{
     width: 800px;
     left: 10%;
 }
-
+.prima_immagine{
+    height: 200px;
+    width: 300px;
+    background-image: url("../img/graph.jpg");
+    color: white;
+}
+.seconda_immagine{
+    height: 200px;
+    width: 300px;
+    background-image: url("../img/monitor.jpg");
+    color: white;
+}
+.marked{
+    background-color: yellow;
+}
+embed{
+    position: relative;
+    top: 60%;
+    width: 200px;
+}
