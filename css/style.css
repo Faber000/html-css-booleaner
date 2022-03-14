@@ -1,3 +1,4 @@
+
 #titolo{
     background-image:url("../img/pattern.png");
     width: 100%;
@@ -18,9 +19,10 @@ span{
 #container{
     position: relative;
     height: 100%;
-    width: 80%;
-    left:10%;
+    width: 70%;
+    left: 15%;
     background-color: white; 
+    padding: 5px;
 }
 html{
     background-color: lightgray;
@@ -28,3 +30,19 @@ html{
 h1{
     margin-bottom:1px;
 }
+th{
+    color:white;
+}
+#colore1{
+    background-color: deepskyblue;
+}
+.colore2{
+    background-color: aqua;
+}
+table{
+    position: relative;
+    border-spacing: 0px;
+    width: 800px;
+    left: 10%;
+}
+
